@@ -1,0 +1,6 @@
+{
+  "name": "Play with Purpose",
+  "description": "Creative, educational, and Islamically integrated workshops & handmade wooden crafts for kids aged 4-12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

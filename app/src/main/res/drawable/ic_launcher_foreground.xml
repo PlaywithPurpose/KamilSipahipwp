@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Soft Ring -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,18 C73.88,18 90,34.12 90,54 C90,73.88 73.88,90 54,90 C34.12,90 18,73.88 18,54 C18,34.12 34.12,18 54,18 Z" />
+
+    <!-- 8-Point Geometric Islamic Star Pattern -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M54,26 L62,39 L76,34 L71,48 L82,56 L68,61 L68,76 L54,67 L40,76 L40,61 L26,56 L37,48 L32,34 L46,39 Z" />
+
+    <!-- Inside Core Star -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 L58,45 L70,45 L60,51 L64,62 L54,55 L44,62 L48,51 L38,45 L50,45 Z" />
+
+    <!-- Craft Brush / Sword Indicator Symbol inside -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M52,46 H56 V54 H52 Z M53,55 H55 V58 H53 Z" />
+
+</vector>
